@@ -1,0 +1,6 @@
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\bin\Debug\Dependency_Injection.exe.config
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\bin\Debug\Dependency_Injection.exe
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\bin\Debug\Dependency_Injection.pdb
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\obj\Debug\Dependency_Injection.csprojAssemblyReference.cache
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\obj\Debug\Dependency_Injection.exe
+D:\Rainy\static classes\Dependency_Injection\Dependency_Injection\obj\Debug\Dependency_Injection.pdb
