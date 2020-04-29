@@ -10,6 +10,6 @@ namespace Dependency_Injection
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public string Department { get; set; }
+        public string Department1 { get; set; }
     }
 }
