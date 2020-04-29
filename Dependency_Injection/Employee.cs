@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dependency_Injection
 {
-   public class Employee
+   public class Employee 
     {
         public int ID { get; set; }
         public string Name { get; set; }
